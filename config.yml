@@ -41,5 +41,9 @@ sessions:
   workshop: command-line
 venue: Graduate Center
 
+# workshopsRepo: workshops
+# workshopsUser: dhri-curriculum
+
 workshopsRepo: workshops
 workshopsUser: dhri-curriculum
+
