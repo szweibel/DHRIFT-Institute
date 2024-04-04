@@ -1,4 +1,4 @@
-DHRIFTfrontpage: true
+DHRIFTfrontpage: false
 address: 365 5th Ave, New York, NY 10016
 dateStart: '2023-01-01'
 description: DHRIFT can be customized to your pedagogical needs.
@@ -40,22 +40,6 @@ sessions:
   time: '11:00'
   title: Introduction to the Command Line
   workshop: command-line
-- date: ''
-  description: ''
-  instructors:
-  - name: ''
-  location: ''
-  time: ''
-  title: ''
-  workshop: ''
-- date: ''
-  description: ''
-  instructors:
-  - name: ''
-  location: ''
-  time: ''
-  title: ''
-  workshop: ''
 venue: Graduate Center
 workshopsRepo: workshops
 workshopsUser: dhri-curriculum
