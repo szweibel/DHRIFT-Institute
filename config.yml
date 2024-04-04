@@ -41,5 +41,5 @@ sessions:
   title: Introduction to the Command Line
   workshop: command-line
 venue: Graduate Center
-workshopsuser: 'GC-DRI'
-workshopsrepo: 'DRI24' 
+workshopsUser: dhri-curriculum
+workshopsRepo: workshops  
