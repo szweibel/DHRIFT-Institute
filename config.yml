@@ -6,7 +6,7 @@ endDate: '2023-01-01'
 event: Learn.
 helpers:
 - name: Zachary Lloyd
-heroDescription: DHRIFT curriculum have been developed, used, and tested in classrooms
+herodescription: DHRIFT curriculum have been developed, used, and tested in classrooms
   at over twenty colleges and universities. DHRIFT provides sites for your technical
   intensives and workshops that help you to teach technical topics effectively. DHRIFT
   is created by humanists, for humanists. We value inclusivity and openness in the
@@ -16,9 +16,9 @@ instructors:
 - name: Steve Zweibel
 - name: Leanne Fan
 language: en
-organizerName: Lisa Rhody
-registerLink: https://app.dhrift.org/inst/?instUser=GC-DRI&instRepo=GCDRI24Schedule
-registerText: See a Demonstration Institute
+organizername: Lisa Rhody
+registerlink: https://app.dhrift.org/inst/?instUser=GC-DRI&instRepo=GCDRI24Schedule
+registertext: See a Demonstration Institute
 sessions:
 - date: '2023-03-01'
   description: This is the first day of the DHRI. We will introduce ourselves and
