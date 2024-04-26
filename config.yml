@@ -39,7 +39,7 @@ sessions:
   - name:
       email: ''
       name: Stephen Zweibel
-  location: The Graduate Center, CUNYkk
+  location: The Graduate Center, CUNY
   time: '11:00'
   title: Introduction to the Command Line
   workshop: command-line
