@@ -4,14 +4,12 @@ description: DHRIFT can be customized to your pedagogical needs.
 endDate: '2023-01-01'
 event: Learn.
 format: online
-heroImage: {}
 herodescription: DHRIFT curriculum have been developed, used, and tested in classrooms
   at over twenty colleges and universities. DHRIFT provides sites for your technical
   intensives and workshops that help you to teach technical topics effectively. DHRIFT
   is created by humanists, for humanists. We value inclusivity and openness in the
   design of our curriculum and platform.
 institution: CUNY Graduate Center
-logo: {}
 organizers:
 - email: ''
   name: ''
@@ -34,7 +32,7 @@ sessions:
     interface for interacting with your computer. We will cover basic commands, file
     management, and navigating the file system.
   helpers:
-  - name: Zachary Lloyd
+  - name: Zacharyllllll
   instructors:
   - name:
       email: ''
