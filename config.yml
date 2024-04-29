@@ -1,25 +1,22 @@
 address: 365 5th Ave, New York, NY 10016
 dateStart: '2023-01-01'
-description: DHRIFT is working.
-endDate: '2023-01-05'
-event: Testing the form.
+description: DHRIFT can be customized to your pedagogical needs.
+endDate: '2023-01-01'
+event: Learn.
 format: online
-heroDescription: Here is a test.
 herodescription: DHRIFT curriculum have been developed, used, and tested in classrooms
   at over twenty colleges and universities. DHRIFT provides sites for your technical
   intensives and workshops that help you to teach technical topics effectively. DHRIFT
   is created by humanists, for humanists. We value inclusivity and openness in the
   design of our curriculum and platform.
 institution: CUNY Graduate Center
-onlinePlatformLink: http://mmm
 organizers:
 - email: ''
   name: ''
-registerlink: https://app.dhrift.org/inst/?instUser=GC-DRI&instRepo=GCDRI24Schedule
-registertext: See a Demonstration Institute
 sessions:
 - date: '2023-03-01'
-  description: This is the
+  description: This is the first day of the DHRI. We will introduce ourselves and
+    the DHRI, and discuss the goals of the institute.
   helpers:
   - name: Zachary Lloyd
   instructors:
@@ -29,7 +26,7 @@ sessions:
   location: The Graduate Center, CUNY
   time: 09:00
   title: Welcome to the DHRI
-  workshop: html-css
+  workshop: ''
 - date: '2023-03-01'
   description: This workshop will introduce you to the command line, a text-based
     interface for interacting with your computer. We will cover basic commands, file
