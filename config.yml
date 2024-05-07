@@ -11,22 +11,22 @@ herodescription: DHRIFT curriculum have been developed, used, and tested in clas
   design of our curriculum and platform.
 institution: CUNY Graduate Center
 organizers:
-- email: ''
-  name: ''
+- email: ghg@gg.com
+  name: ggggggg
 sessions:
-- date: '2023-03-01'
+- date: '2023-06-07'
   description: This is the first day of the DHRI. We will introduce ourselves and
     the DHRI, and discuss the goals of the institute.
   helpers:
-  - name: 'Zachary '
+  - name: Zachary Lloyd
   instructors:
   - name:
       email: ''
       name: Steve Zweibel
   location: The Graduate Center, CUNY
-  time: 09:00
-  title: Welcome to the DHRI
-  workshop: ''
+  time: '13:00'
+  title: Welcome to the DHRImmmmmm
+  workshop: html-css
 - date: '2023-03-01'
   description: This workshop will introduce you to the command line, a text-based
     interface for interacting with your computer. We will cover basic commands, file
