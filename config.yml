@@ -18,7 +18,7 @@ sessions:
   description: This is the first day of the DHRI. We will introduce ourselves and
     the DHRI, and discuss the goals of the institute.
   helpers:
-  - name: Zachary Lloyd
+  - name: 'Zachary '
   instructors:
   - name:
       email: ''
