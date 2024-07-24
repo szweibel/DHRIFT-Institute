@@ -7,6 +7,8 @@ description: The Digital Research Institute is a week-long event that introduces
 endDate: '2025-01-01'
 event: Digital Research Institute
 format: online
+heroDescription: Learn digital research methods and tools at the Digital Research
+  Institute
 herodescription: Learn digital research methods and tools at the Digital Research
   Institute.
 institution: CUNY Graduate Center
@@ -30,7 +32,7 @@ sessions:
 - date: '2023-03-01'
   description: This workshop will introduce you to the command line, a text-based
     interface for interacting with your computer. We will cover basic commands, file
-    management, and navigating the file system.
+    managemend navigating the file system.
   helpers:
   - name: Zachary Lloyd
   instructors:
