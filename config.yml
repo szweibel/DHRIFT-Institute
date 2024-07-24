@@ -1,14 +1,12 @@
 address: 365 5th Ave, New York, NY 10016
-dateStart: '2025-01-01'
+dateStart: '2023-01-01'
 description: The Digital Research Institute is a week-long event that introduces participants
   to digital research methods and tools. Participants will learn how to use the command
   line, work with data, and create visualizations. The institute is open to all skill
   levels, from beginners to advanced users.
-endDate: '2025-01-01'
+endDate: '2023-01-01'
 event: Digital Research Institute
 format: online
-heroDescription: Learn digital research methods and tools at the Digital Research
-  Institute
 herodescription: Learn digital research methods and tools at the Digital Research
   Institute.
 institution: CUNY Graduate Center
@@ -32,7 +30,7 @@ sessions:
 - date: '2023-03-01'
   description: This workshop will introduce you to the command line, a text-based
     interface for interacting with your computer. We will cover basic commands, file
-    managemend navigating the file system.
+    management, and navigating the file system.
   helpers:
   - name: Zachary Lloyd
   instructors:
