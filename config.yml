@@ -36,7 +36,7 @@ sessions:
   instructors:
   - name:
       email: ''
-      name: 'Stephen '
+      name: Stephen Zweibel
   location: The Graduate Center, CUNY
   time: '11:00'
   title: Introduction to the Command Line
