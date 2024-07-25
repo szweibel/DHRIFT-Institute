@@ -1,3 +1,6 @@
+contact:
+- email: contact@gc.cuny.edu
+  name: Digital Research Institute
 dateStart: '2025-01-01'
 description: The Digital Research Institute is a week-long event that introduces participants
   to digital research methods and tools. Participants will learn how to use the command
@@ -11,8 +14,8 @@ herodescription: Learn digital research methods and tools at the Digital Researc
 institution: CUNY Graduate Center
 location: 365 5th Ave, New York, NY 10016
 organizers:
-- email: email@gc.cuny.edu
-  name: Digital Research Institute
+- email: ''
+  name: ''
 sessions:
 - date: '2023-03-01'
   description: This is the first day of the DHRI. We will introduce ourselves and
@@ -44,6 +47,8 @@ sessions:
 sponsors:
 - link: https://gcdri.commons.gc.cuny.edu/
   name: GCDRI
+- email: ''
+  name: ''
 venue: The Graduate Center, CUNY
 workshopsrepo: workshops
 workshopsuser: dhri-curriculum
