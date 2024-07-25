@@ -1,4 +1,3 @@
-address: 365 5th Ave, New York, NY 10016
 dateStart: '2025-01-01'
 description: The Digital Research Institute is a week-long event that introduces participants
   to digital research methods and tools. Participants will learn how to use the command
@@ -10,9 +9,10 @@ format: online
 herodescription: Learn digital research methods and tools at the Digital Research
   Institute.
 institution: CUNY Graduate Center
+location: 365 5th Ave, New York, NY 10016
 organizers:
-- email: ''
-  name: ''
+- email: email@gc.cuny.edu
+  name: Digital Research Institute
 sessions:
 - date: '2023-03-01'
   description: This is the first day of the DHRI. We will introduce ourselves and
@@ -41,6 +41,9 @@ sessions:
   time: '11:00'
   title: Introduction to the Command Line
   workshop: command-line
-venue: ''
+sponsors:
+- link: https://gcdri.commons.gc.cuny.edu/
+  name: GCDRI
+venue: The Graduate Center, CUNY
 workshopsrepo: workshops
 workshopsuser: dhri-curriculum
