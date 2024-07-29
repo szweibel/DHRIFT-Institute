@@ -1,4 +1,4 @@
-cloneWorkshops: 'false'
+cloneWorkshops: true
 contact:
 - email: contact@gc.cuny.edu
   name: Digital Research Institute
