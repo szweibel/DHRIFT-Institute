@@ -1,4 +1,4 @@
-cloneWorkshops: true
+cloneWorkshops: 'false'
 contact:
 - email: contact@gc.cuny.edu
   name: Digital Research Institute
@@ -50,4 +50,4 @@ sponsors:
   name: GCDRI
 venue: The Graduate Center, CUNY
 workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+workshopsuser: szweibel
