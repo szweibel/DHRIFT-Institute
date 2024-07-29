@@ -7,7 +7,7 @@ description: The Digital Research Institute is a week-long event that introduces
   to digital research methods and tools. Participants will learn how to use the command
   line, work with data, and create visualizations. The institute is open to all skill
   levels, from beginners to advanced users.
-endDate: '2025-03-01'
+endDate: '2025-01-01'
 event: Digital Research Institute
 format: online
 herodescription: Learn digital research methods and tools at the Digital Research
@@ -50,4 +50,4 @@ sponsors:
   name: GCDRI
 venue: The Graduate Center, CUNY
 workshopsrepo: DHRIFT-Workshops
-workshopsuser: szweibel
+workshopsuser: ''
