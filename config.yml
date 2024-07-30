@@ -1,4 +1,4 @@
-cloneWorkshops: false
+cloneWorkshops: true
 contact:
 - email: contact@gc.cuny.edu
   name: Digital Research Institute
@@ -19,8 +19,8 @@ organizers:
   name: Digital Research Institute
 sessions:
 - date: '2023-03-01'
-  description: This is the first day of the DHRI. We will introduce ourselves and
-    the DHRI, and discuss the goals of the institute.
+  description: This is the first day of the DHRI. We willhhhhhhhhhhhhhhhhhintroduce
+    ourselves and the DHRI, and discuss the goals of the institute.
   helpers:
   - name: Zachary Lloyd
   instructors:
@@ -50,4 +50,4 @@ sponsors:
   name: GCDRI
 venue: The Graduate Center, CUNY
 workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+workshopsuser: szweibel
