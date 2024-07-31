@@ -1,34 +1,45 @@
-cloneWorkshops: false
+cloneWorkshops: true
 contact:
-- email: ''
-  name: ''
-dateStart: ''
-description: ''
-endDate: ''
-event: ''
-format: ''
-herodescription: ''
-institution: ''
+- email: ejemplo@ejemplo.mx
+  name: 'oujlyhkbn '
+dateStart: '2024-07-17'
+description: mmmmmmmmmmmmmmmmmmmm
+endDate: '2024-08-10'
+event: jjjjjh
+eventNotes: ouyhvgoujyhgb
+format: online
+haveRegistration: true
+herodescription: gggggg
+institution: nnnn
 location: ''
+longDescription: fghvkjbn,kmouytgvv jhbk nm,
+onlinePlatformLink: http://mmm
 organizers:
-- email: ''
-  name: ''
+- email: test@example.us
+  name: 6ytyuv
+registerLink: fgfffff
+registerText: hhhhh
 sessions:
-- date: ''
-  description: ''
+- date: '2024-07-17'
+  description: ouljhvn biygfcv
+  endTime: '14:11'
   helpers:
   - name: ''
   instructors:
   - name:
-      email: ''
-      name: ''
-  location: ''
-  time: ''
-  title: ''
-  workshop: ''
+      email: test@example.us
+      name: 'ouljkhnb '
+  location: iyvtgihjklymn
+  time: '14:10'
+  title: ouyigbuhol jn
+  workshop: git
+showWorkshops: true
+socialMedia: 879uighjbklnm,
+socialmedialink: ouiyhgvboulj,n
 sponsors:
-- link: ''
-  name: ''
+- link: ilokhjbn m
+  name: yigv ikjh,b
+  notes: 'ouljhgynb '
 venue: ''
 workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+workshopsuser: szweibel
