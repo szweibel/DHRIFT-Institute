@@ -1,14 +1,14 @@
-cloneWorkshops: false
+cloneWorkshops: true
 contact:
 - email: ''
   name: ''
-dateStart: ''
-description: ''
-endDate: ''
-event: ''
-format: ''
-herodescription: ''
-institution: ''
+dateStart: '2025-12-02'
+description: ygfhcikytghf
+endDate: '2025-03-08'
+event: nn
+format: online
+herodescription: gbv khjgv
+institution: hkgjv
 location: ''
 organizers:
 - email: ''
@@ -24,11 +24,11 @@ sessions:
       name: ''
   location: ''
   time: ''
-  title: gfggg
+  title: lukygoljyuhg
   workshop: ''
 sponsors:
 - link: ''
   name: ''
 venue: ''
-workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+workshopsrepo: DHRIFT-workshops
+workshopsuser: szweibel
