@@ -1,16 +1,15 @@
-cloneWorkshops: true
+cloneWorkshops: false
 contact:
 - email: ''
   name: ''
-dateStart: '2025-02-01'
-description: Hello
-endDate: '2026-01-01'
-event: Test
-format: online
-herodescription: hhh
-institution: GC
+dateStart: ''
+description: ''
+endDate: ''
+event: ''
+format: ''
+herodescription: ''
+institution: ''
 location: ''
-longDescription: Here is the long description
 organizers:
 - email: ''
   name: ''
@@ -25,11 +24,11 @@ sessions:
       name: ''
   location: ''
   time: ''
-  title: ''
+  title: gfggg
   workshop: ''
 sponsors:
 - link: ''
   name: ''
 venue: ''
-workshopsrepo: DHRIFT-workshops
-workshopsuser: szweibel
+workshopsrepo: workshops
+workshopsuser: dhri-curriculum
