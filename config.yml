@@ -1,20 +1,20 @@
-cloneWorkshops: true
+cloneWorkshops: false
 contact:
 - email: ''
   name: ''
-dateStart: '2025-12-02'
-description: ygfhcikytghf
-endDate: '2025-03-08'
-event: nn
-format: online
-herodescription: gbv khjgv
-institution: hkgjv
+dateStart: ''
+description: ''
+endDate: ''
+event: ''
+format: ''
+herodescription: ''
+institution: ''
 location: ''
 organizers:
 - email: ''
   name: ''
 sessions:
-- date: ''
+- date: '2024-08-15'
   description: ''
   helpers:
   - name: ''
@@ -23,24 +23,12 @@ sessions:
       email: ''
       name: ''
   location: ''
-  time: ''
-  title: lukygoljyuhg
-  workshop: ''
-- date: ''
-  description: ghvkujtygfv
-  helpers:
-  - name: ''
-  instructors:
-  - name:
-      email: ''
-      name: ''
-  location: ''
-  time: ''
-  title: ghkfgdxsfjchlkijugh
-  workshop: ''
+  time: '20:29'
+  title: lgjvljhbi;uhbui
+  workshop: javascript
 sponsors:
 - link: ''
   name: ''
 venue: ''
-workshopsrepo: DHRIFT-workshops
-workshopsuser: szweibel
+workshopsrepo: workshops
+workshopsuser: dhri-curriculum
