@@ -1,34 +1,41 @@
-cloneWorkshops: false
+cloneWorkshops: true
 contact:
-- email: ''
-  name: ''
-dateStart: ''
-description: ''
-endDate: ''
-event: ''
-format: ''
-herodescription: ''
-institution: ''
-location: ''
+- email: jane.doe@example.com
+  name: Jane Doe
+dateStart: '2024-09-01'
+description: This is a description of the example event.
+endDate: '2024-09-05'
+event: Example Event
+format: online
+haveRegistration: true
+herodescription: An example event for testing.
+institution: Example Institute
+location: Example Location
+longdescription: This is a long description for the example event.
 organizers:
-- email: ''
-  name: ''
+- email: john.doe@example.com
+  name: John Doe
+registerLink: https://example.com/register
+registerText: Register Now
 sessions:
-- date: ''
-  description: ''
+- date: '2024-09-01'
+  description: This is a description of the example session.
   helpers:
-  - name: ''
+  - name: Helper One
   instructors:
   - name:
-      email: ''
-      name: ''
-  location: ''
-  time: ''
-  title: jhb khjb
-  workshop: ''
+      email: instructor.one@example.com
+      name: Instructor One
+  location: Example Location
+  time: '10:00'
+  title: Example Session
+  workshop: Example Workshop
+showWorkshops: true
+socialMedia: Example Social Media
+socialmedialink: https://example.com/social
 sponsors:
-- link: ''
-  name: ''
-venue: ''
-workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+- link: https://example.com
+  name: Example Sponsor
+venue: Example Venue
+workshopsrepo: DHRIFT-workshops
+workshopsuser: szweibel
